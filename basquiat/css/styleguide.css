@@ -1,0 +1,36 @@
+:root { 
+  --black: #000000;
+  --white: #ffffff;
+ 
+  --font-size-l: 30px;
+  --font-size-m: 23px;
+  --font-size-s: 20px;
+  --font-size-xl: 40px;
+  --font-size-xxl: 45px;
+  --font-size-xxxl: 93px;
+ 
+  --font-family-basquiat: "Basquiat", Helvetica;
+  --font-family-basquiat-regular: "Basquiat-Regular", Helvetica;
+  --font-family-impact-regular: "Impact-Regular", Helvetica;
+}
+.basquiat-regular-normal-white-23px {
+  color: var(--white);
+  font-family: var(--font-family-basquiat-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.basquiat-regular-normal-white-40px {
+  color: var(--white);
+  font-family: var(--font-family-basquiat-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.basquiat-normal-white-40px {
+  color: var(--white);
+  font-family: var(--font-family-basquiat);
+  font-size: var(--font-size-xl);
+}

@@ -1,0 +1,599 @@
+/* screen - web-1920-2 */
+
+.web-1920-2 {
+  align-items: flex-start;
+  background-color: #e40000;
+  display: flex;
+  flex-direction: column;
+  gap: 127px;
+  height: 10481px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.web-1920-2 .flex-row {
+  align-self: center;
+  gap: 20px;
+  height: 942px;
+  margin-left: 2.0px;
+  min-width: 1642px;
+}
+
+.web-1920-2 .flex-col {
+  flex-direction: column;
+  gap: 23px;
+  min-height: 930px;
+  width: 673px;
+}
+
+.web-1920-2 .untitled-2 {
+  height: 100px;
+  object-fit: cover;
+  width: 359px;
+}
+
+.web-1920-2 .image-9 {
+  height: 807px;
+  object-fit: cover;
+  width: 673px;
+}
+
+.web-1920-2 .flex-col-1 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 29px;
+  min-height: 819px;
+  width: 949px;
+}
+
+.web-1920-2 .untitled-2-1 {
+  height: 411px;
+  margin-right: 2.0px;
+  object-fit: cover;
+  width: 921px;
+}
+
+.web-1920-2 .overlap-group1 {
+  height: 379px;
+  position: relative;
+  width: 949px;
+}
+
+.web-1920-2 .many-of-basquiats-p {
+  color: var(--black);
+  font-family: var(--font-family-basquiat-regular);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  height: 268px;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 0;
+  width: 923px;
+}
+
+.web-1920-2 .group-2 {
+  align-items: flex-end;
+  background-image: url(../img/untitled-4-copy-25@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  display: flex;
+  height: 113px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 503px;
+  padding: 26.7px 98.5px;
+  position: absolute;
+  top: 266px;
+}
+
+.web-1920-2 .back-to-main-page {
+  color: var(--black);
+  font-family: var(--font-family-impact-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 40px;
+  min-height: 50px;
+  min-width: 305px;
+  white-space: nowrap;
+}
+
+.web-1920-2 .group-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: -596.66px;
+  min-height: 9215px;
+  width: 3084px;
+}
+
+.web-1920-2 .overlap-group3 {
+  align-self: flex-end;
+  height: 2442px;
+  position: relative;
+  width: 2570px;
+}
+
+.web-1920-2 .untitled-4-copy {
+  height: 288px;
+  left: 201px;
+  object-fit: cover;
+  position: absolute;
+  top: 90px;
+  width: 1293px;
+}
+
+.web-1920-2 .untitled-4-copy-1 {
+  height: 810px;
+  left: 207px;
+  top: 0;
+  width: 181px;
+}
+
+.web-1920-2 .untitled-4-copy-2 {
+  height: 365px;
+  left: 363px;
+  top: 393px;
+  width: 1640px;
+}
+
+.web-1920-2 .untitled-4-copy-3 {
+  height: 573px;
+  left: 0;
+  top: 1029px;
+  width: 2570px;
+}
+
+.web-1920-2 .untitled-4-copy-4 {
+  height: 427px;
+  left: 22px;
+  top: 764px;
+  width: 1915px;
+}
+
+.web-1920-2 .untitled-4-copy-5 {
+  height: 365px;
+  left: 198px;
+  top: 1558px;
+  width: 1638px;
+}
+
+.web-1920-2 .untitled-4-copy-6 {
+  height: 365px;
+  left: 372px;
+  top: 1827px;
+  width: 1638px;
+}
+
+.web-1920-2 .untitled-4-copy-7 {
+  height: 467px;
+  left: 22px;
+  top: 1972px;
+  width: 2092px;
+}
+
+.web-1920-2 .untitled-4-copy-8 {
+  height: 288px;
+  left: 361px;
+  top: 268px;
+  width: 1293px;
+}
+
+.web-1920-2 .image-10 {
+  height: 557px;
+  left: 223px;
+  object-fit: cover;
+  position: absolute;
+  top: 112px;
+  width: 461px;
+}
+
+.web-1920-2 .created-1981locat {
+  color: var(--black);
+  font-family: var(--font-family-basquiat-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 558px;
+  left: 707px;
+  letter-spacing: -0.64px;
+  line-height: 23px;
+  position: absolute;
+  top: 134px;
+  width: 1158px;
+}
+
+.web-1920-2 .image-11 {
+  height: 658px;
+  left: 1243px;
+  object-fit: cover;
+  position: absolute;
+  top: 800px;
+  width: 620px;
+}
+
+.web-1920-2 .untitled-skull-1982 {
+  color: var(--black);
+  font-family: var(--font-family-basquiat);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  height: 711px;
+  left: 311px;
+  letter-spacing: -0.64px;
+  line-height: 23px;
+  position: absolute;
+  text-align: right;
+  top: 824px;
+  width: 922px;
+}
+
+.web-1920-2 .span0 {
+  font-family: var(--font-family-basquiat-regular);
+  letter-spacing: -1.12px;
+}
+
+.web-1920-2 .span1 {
+  font-family: var(--font-family-basquiat-regular);
+  font-size: var(--font-size-m);
+}
+
+.web-1920-2 .image-12 {
+  height: 800px;
+  left: 223px;
+  object-fit: cover;
+  position: absolute;
+  top: 1602px;
+  width: 532px;
+}
+
+.web-1920-2 .irony-of-a-negro-pol {
+  left: 796px;
+  letter-spacing: -0.64px;
+  line-height: 23px;
+  position: absolute;
+  top: 1646px;
+  width: 1087px;
+}
+
+.web-1920-2 .span {
+  letter-spacing: -1.12px;
+}
+
+.web-1920-2 .overlap-group6 {
+  height: 783px;
+  margin-left: 9.74px;
+  margin-top: 31px;
+  position: relative;
+  width: 2071px;
+}
+
+.web-1920-2 .untitled-4-copy-9 {
+  height: 394px;
+  left: 209px;
+  top: 0;
+  width: 1765px;
+}
+
+.web-1920-2 .untitled-4-copy-10 {
+  height: 462px;
+  left: 0;
+  top: 321px;
+  width: 2071px;
+}
+
+.web-1920-2 .image-13 {
+  height: 600px;
+  left: 1179px;
+  object-fit: cover;
+  position: absolute;
+  top: 44px;
+  width: 737px;
+}
+
+.web-1920-2 .untitled-boxer-19 {
+  height: 668px;
+  left: 225px;
+  letter-spacing: -0.64px;
+  line-height: 23px;
+  position: absolute;
+  text-align: right;
+  top: 44px;
+  width: 952px;
+}
+
+.web-1920-2 .overlap-group5 {
+  height: 708px;
+  margin-left: 29.7px;
+  margin-top: 23px;
+  position: relative;
+  width: 2003px;
+}
+
+.web-1920-2 .untitled-4-copy-11 {
+  height: 431px;
+  left: 41px;
+  top: 0;
+  width: 1934px;
+}
+
+.web-1920-2 .untitled-4-copy-12 {
+  height: 447px;
+  left: 0;
+  top: 262px;
+  width: 2003px;
+}
+
+.web-1920-2 .movement-neo-expres {
+  height: 553px;
+  left: 920px;
+  letter-spacing: -0.64px;
+  line-height: 23px;
+  position: absolute;
+  top: 123px;
+  width: 903px;
+}
+
+.web-1920-2 .image-14 {
+  height: 438px;
+  left: 165px;
+  object-fit: cover;
+  position: absolute;
+  top: 123px;
+  width: 732px;
+}
+
+.web-1920-2 .overlap-group {
+  align-self: flex-end;
+  height: 1802px;
+  margin-right: 17.62px;
+  margin-top: 53px;
+  position: relative;
+  width: 2664px;
+}
+
+.web-1920-2 .untitled-4-copy-13 {
+  height: 573px;
+  left: 0;
+  top: 353px;
+  width: 2570px;
+}
+
+.web-1920-2 .untitled-4-copy-14 {
+  height: 527px;
+  left: 300px;
+  top: 0;
+  width: 2364px;
+}
+
+.web-1920-2 .untitled-4-copy-15 {
+  height: 365px;
+  left: 213px;
+  top: 969px;
+  width: 1640px;
+}
+
+.web-1920-2 .untitled-4-copy-16 {
+  height: 365px;
+  left: 459px;
+  top: 1190px;
+  width: 1640px;
+}
+
+.web-1920-2 .untitled-4-copy-17 {
+  height: 467px;
+  left: 140px;
+  top: 1335px;
+  width: 2092px;
+}
+
+.web-1920-2 .dos-cabezas-1982da {
+  height: 911px;
+  left: 335px;
+  letter-spacing: -0.64px;
+  line-height: 23px;
+  position: absolute;
+  text-align: right;
+  top: 96px;
+  width: 997px;
+}
+
+.web-1920-2 .warrior-date-1982 {
+  height: 730px;
+  left: 824px;
+  letter-spacing: -0.64px;
+  line-height: 23px;
+  position: absolute;
+  top: 1048px;
+  width: 1181px;
+}
+
+.web-1920-2 .image-15 {
+  height: 655px;
+  left: 1363px;
+  object-fit: cover;
+  position: absolute;
+  top: 118px;
+  width: 663px;
+}
+
+.web-1920-2 .image-17 {
+  height: 657px;
+  left: 335px;
+  object-fit: cover;
+  position: absolute;
+  top: 1048px;
+  width: 443px;
+}
+
+.web-1920-2 .overlap-group2 {
+  height: 756px;
+  margin-left: 69.39px;
+  margin-top: 138px;
+  position: relative;
+  width: 2063px;
+}
+
+.web-1920-2 .untitled-4-copy-18 {
+  height: 390px;
+  left: 314px;
+  top: 0;
+  width: 1749px;
+}
+
+.web-1920-2 .untitled-4-copy-19 {
+  height: 460px;
+  left: 0;
+  top: 296px;
+  width: 2063px;
+}
+
+.web-1920-2 .image-19 {
+  height: 527px;
+  left: 1334px;
+  object-fit: cover;
+  position: absolute;
+  top: 62px;
+  width: 498px;
+}
+
+.web-1920-2 .in-this-case-create {
+  left: 400px;
+  letter-spacing: -0.64px;
+  line-height: 23px;
+  position: absolute;
+  text-align: right;
+  top: 89px;
+  width: 873px;
+}
+
+.web-1920-2 .overlap-group7 {
+  align-self: flex-start;
+  height: 868px;
+  margin-top: 96px;
+  position: relative;
+  width: 2754px;
+}
+
+.web-1920-2 .untitled-4-copy-20 {
+  height: 614px;
+  left: 0;
+  top: 254px;
+  width: 2754px;
+}
+
+.web-1920-2 .untitled-4-copy-21 {
+  height: 417px;
+  left: 370px;
+  top: 0;
+  width: 1868px;
+}
+
+.web-1920-2 .image-18 {
+  height: 748px;
+  left: 737px;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 417px;
+}
+
+.web-1920-2 .tuxedodate-1982st {
+  left: 1189px;
+  letter-spacing: -0.64px;
+  line-height: 23px;
+  position: absolute;
+  top: 116px;
+  width: 1138px;
+}
+
+.web-1920-2 .overlap-group4 {
+  height: 856px;
+  margin-right: 60.88px;
+  margin-top: 179px;
+  position: relative;
+  width: 2247px;
+}
+
+.web-1920-2 .untitled-4-copy-22 {
+  height: 365px;
+  left: 102px;
+  top: 0;
+  width: 1638px;
+}
+
+.web-1920-2 .untitled-4-copy-23 {
+  height: 423px;
+  left: 349px;
+  top: 154px;
+  width: 1898px;
+}
+
+.web-1920-2 .untitled-4-copy-24 {
+  height: 491px;
+  left: 0;
+  top: 365px;
+  width: 2201px;
+}
+
+.web-1920-2 .image-16 {
+  height: 602px;
+  left: 1315px;
+  object-fit: cover;
+  position: absolute;
+  top: 64px;
+  width: 699px;
+}
+
+.web-1920-2 .riding-with-death {
+  color: var(--white);
+  font-family: var(--font-family-basquiat);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 332px;
+  letter-spacing: -0.64px;
+  line-height: 23px;
+  position: absolute;
+  text-align: right;
+  top: 103px;
+  width: 968px;
+}
+
+.web-1920-2 .group-3 {
+  align-items: flex-end;
+  background-image: url(../img/untitled-4-copy-26@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  display: flex;
+  height: 267px;
+  margin-left: 29.7px;
+  margin-top: 213px;
+  min-width: 1199px;
+  padding: 64.7px 238.0px;
+}
+
+.web-1920-2 .back-to-main-page-1 {
+  color: var(--black);
+  font-family: var(--font-family-impact-regular);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 93px;
+  min-height: 116px;
+  min-width: 707px;
+  white-space: nowrap;
+}
+
+.web-1920-2 .flex {
+  align-items: flex-start;
+  display: flex;
+}
+
+.web-1920-2 .untitled-4-copy-25 {
+  object-fit: cover;
+  position: absolute;
+}
